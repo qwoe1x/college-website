@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --gap: 1em;
+    --index: calc(1vw + 1vh);
+    --color-dark: #000;
+}
+
+body {
+    overflow: hidden;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header {
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: .1em;
+    font-size: calc(var(--index) * 5);
+    position: absolute;
+    font-weight: 200;
+    text-align: center;
+    opacity: .9;
+    margin-top: .2em;
+}
+.header span {
+    display: block;
+    font-family: Helvetica, sans-serif;
+    font-size: calc(var(--index) * 1);
+    margin-top: 5px;
+}
+
+.gallery {
+    width: 100%;
+    column-count: 5;
+    column-gap: var(--gap);
+    transform: scale(1);
+    will-change: transform;
+    transition: transform 1s cubic-bezier(.075, 1, .25, 1);
+    opacity: 0;
+}
+
+.gallery__item {
+    display: inline-block;
+    margin-bottom: var(--gap);
+    transform: scale(1.001);
+    transition: .3s;
+    will-change: transform;
+}
+
+.gallery__item:hover {
+    transform: scale(1.05);
+}
+
+.gallery__item img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+.loaded .gallery {
+    opacity: 1;
+}
+
+.loaded .header {
+    opacity: 0;
+}
