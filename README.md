@@ -1,6 +1,11 @@
-# college-website
-Цей репозиторій містить  код веб-сторінки для моєї роботи з інформатики.
-<a href="https://qwoe1x.github.io/college-website/">посилання</a>
+# College Website
+
+Цей репозиторій містить код веб-сторінки для моєї роботи з інформатики.
+
+## Посилання
+
+- [Переглянути веб-сторінку](https://qwoe1x.github.io/college-website/)
+- Author: [telegram](https://t.me/qwoe1x) [discord](https://discordapp.com/users/852586781727916073)
 
 <div align="center">
 <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -9,7 +14,6 @@
 <img alt = "JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
-Author: [telegram](https://t.me/qwoe1x) [discord](https://discordapp.com/users/852586781727916073)
 
 ---
 #### All Rights Reserved
