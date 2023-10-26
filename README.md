@@ -10,7 +10,7 @@
 <img alt = "JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
-Author: [telegram](https://t.me/qwoe1x) [discord](https://discordapp.com/users/852586781727916073)
+Author: [Telegram](https://t.me/qwoe1x) [Discord](https://discordapp.com/users/852586781727916073)
 
 ---
 #### All Rights Reserved
