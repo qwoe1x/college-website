@@ -1,5 +1,6 @@
 # college-website
 Цей репозиторій містить  код веб-сторінки для моєї роботи з інформатики.
+<a href="https://qwoe1x.github.io/college-website/">посилання</a>
 
 <div align="center">
 <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
