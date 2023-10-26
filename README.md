@@ -9,7 +9,8 @@
 <img alt = "CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt = "JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
-- Author: [telegram](https://t.me/qwoe1x) [discord](https://discordapp.com/users/852586781727916073)
+
+Author: [telegram](https://t.me/qwoe1x) [discord](https://discordapp.com/users/852586781727916073)
 
 ---
 #### All Rights Reserved
